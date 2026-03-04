@@ -1,2 +1,1 @@
-# PracticaEjerciciosPython_01
-Algoritmos modulares para reforzar el pensamiento lógico 
+# Asistente de cocina en python
